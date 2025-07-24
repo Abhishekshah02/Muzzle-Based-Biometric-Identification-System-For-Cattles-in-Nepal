@@ -1,8 +1,6 @@
 env/
-Muzzle-Based-Biometric-Identification-System-For-Cattles-in-Nepal/Cattle-Muzzle-Detection-1/
-Muzzle-Based-Biometric-Identification-System-For-Cattles-in-Nepal/cattle_detection/
-Muzzle-Based-Biometric-Identification-System-For-Cattles-in-Nepal/resized_dataset/
-Muzzle-Based-Biometric-Identification-System-For-Cattles-in-Nepal/yolov8n.pt
+Muzzle-Based-Biometric-Identification-System-For-Cattles-in-Nepal/
+base_256/
 __pycache__/
 *.pyd
 *.dll
