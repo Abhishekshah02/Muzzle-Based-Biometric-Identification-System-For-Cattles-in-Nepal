@@ -1,1 +1,0 @@
-# Muzzle-Based-Biometric-Identification-System-For-Cattles-in-Nepal
