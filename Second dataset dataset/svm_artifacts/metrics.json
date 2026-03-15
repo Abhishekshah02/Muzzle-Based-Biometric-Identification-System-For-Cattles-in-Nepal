@@ -1,0 +1,12 @@
+{
+  "best_params": {
+    "C": 10,
+    "gamma": 0.03,
+    "kernel": "rbf"
+  },
+  "cv_accuracy": 0.8540675832640782,
+  "test_top1_acc": 0.8537666174298375,
+  "test_top5_acc": 0.9438700147710487,
+  "n_classes": 256,
+  "n_test": 677
+}

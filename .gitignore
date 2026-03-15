@@ -9,3 +9,10 @@ __pycache__/
 *.dll
 BeefCattle_Muzzle_Individualized/
 tf215env/
+Second dataset dataset/gamma0.9_muzzle_features_LBP_Gabor_Blob_HOG.csv
+Second dataset dataset/svmwithHOG_artifacts/svm_model.joblib	
+Second dataset dataset/svmwithHOG_gamma0.9_artifacts/svm_model.joblib
+muzzle_features_LBP_Gabor_Blob_HOG.csv
+arcface_modify/classifier_final.h5
+arcface_modify/pretrain_best.h5 
+Second dataset dataset/svmwithHOG_artifacts/svm_model.joblib
